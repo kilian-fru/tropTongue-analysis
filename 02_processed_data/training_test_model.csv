@@ -1,0 +1,275 @@
+;individual;family;tribe;genus;species;intertegularDistance;proboscisLength
+1;K-1560;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,559;2,679
+2;K-0314;Apidae;Meliponini;Nannotrigona;Nannotrigona tristella;1,448;1,63
+3;K-0757;Apidae;Meliponini;Tetragona;Tetragona ziegleri;1,127;1,329
+4;K-2328;Apidae;Meliponini;Trigona;Trigona nigerrima;1,606;2,59
+5;K-1979;Apidae;Meliponini;Tetragonisca;Tetragonisca buchwaldi;1,018;1,498
+6;K-1774;Apidae;Meliponini;Trigonisca;Trigonisca cf atomaria;0,757;0,964
+7;K-1786;Apidae;Meliponini;Plebeia;Plebeia sp1;1,195;0,629
+8;K-0383;Apidae;Meliponini;Plebeia;Plebeia sp2;1,201;1,632
+9;K-2246;Apidae;Meliponini;Trigona;Trigona cf fulviventris;1,458;3,392
+10;A-1217;Apidae;Meliponini;Trigonisca;Trigonisca cf pediculana;0,767;1,111
+11;K-0378;Apidae;Meliponini;Plebeia;Plebeia sp2;1,212;1,648
+12;K-0464;Apidae;Meliponini;Paratrigona;Paratrigona opaca;1,338;2,625
+13;K-2106;Apidae;Meliponini;Plebeia;Plebeia sp1;1,121;0,569
+14;K-0305;Apidae;Meliponini;Tetragonisca;Tetragonisca angustula;0,921;1,517
+15;K-1503;Apidae;Meliponini;Paratrigona;Paratrigona opaca;1,265;1,072
+16;K-0274;Apidae;Meliponini;Partamona;Partamona sp;1,725;3,828
+17;K-0154;Apidae;Meliponini;Trigonisca;Trigonisca cf buyssoni;0,777;1,007
+18;A-0549;Apidae;Meliponini;Trigonisca;Trigonisca cf atomaria;0,695;1,026
+19;K-1561;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,614;2,605
+20;K-0888;Apidae;Meliponini;Plebeia;Plebeia (Nanoplebeia) minima;0,989;1,364
+21;K-0688;Apidae;Meliponini;Tetragona;Tetragona perangulata;1,297;1,551
+22;K-2326;Apidae;Meliponini;Trigona;Trigona nigerrima;1,591;2,548
+23;K-2298;Apidae;Meliponini;Trigona;Trigona cf fulviventris;1,44;3,37
+24;K-2098;Apidae;Meliponini;Paratrigona;Paratrigona opaca;1,21;0,999
+25;K-1720;Apidae;Meliponini;Tetragonisca;Tetragonisca angustula;0,93;1,519
+26;K-1629;Apidae;Meliponini;Scaptotrigona;Scaptotrigona luteipennis;1,871;3,377
+27;K-1526;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Scaptotrigona) sp;1,708;3,333
+28;K-1653;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,589;2,94
+29;A-0033;Apidae;Meliponini;Partamona;Partamona nr peckolti;1,542;3,709
+30;K-0162;Apidae;Meliponini;Trigona;Trigona ferricauda;1,354;2,795
+31;K-0059;Apidae;Meliponini;Melipona;Melipona (Michmelia) sp;3,044;4,801
+32;K-2096;Apidae;Meliponini;Trigonisca;Trigonisca cf atomaria;0,791;1,072
+33;K-1628;Apidae;Meliponini;Scaptotrigona;Scaptotrigona luteipennis;1,896;3,383
+34;K-0822;Apidae;Meliponini;Trigona;Trigona silvestriana;2,064;2,914
+35;K-1650;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,598;2,844
+36;K-0362;Apidae;Meliponini;Nogueirapis;Nogueirapis mirandula;1,149;2,199
+37;K-0319;Apidae;Meliponini;Nannotrigona;Nannotrigona tristella;1,369;1,601
+38;K-1330;Apidae;Meliponini;Oxytrigona;Oxytrigona isthmina;1,386;1,796
+39;K-2330;Apidae;Meliponini;Trigona;Trigona nigerrima;1,651;2,608
+40;K-0698;Apidae;Meliponini;Tetragona;Tetragona ziegleri;1,15;1,292
+41;K-0366;Apidae;Meliponini;Nogueirapis;Nogueirapis mirandula;1,118;2,011
+42;K-0361;Apidae;Meliponini;Nogueirapis;Nogueirapis mirandula;1,137;2,065
+43;K-1775;Apidae;Meliponini;Trigonisca;Trigonisca cf atomaria;0,713;0,983
+44;K-1695;Apidae;Meliponini;Trigona;Trigona fuscipennis;1,393;1,809
+45;K-1334;Apidae;Meliponini;Trigona;Trigona cf fulviventris;1,398;3,206
+46;K-1035;Apidae;Meliponini;Plebeia;Plebeia sp1;1,102;0,622
+47;A-0631;Apidae;Meliponini;Trigonisca;Trigonisca cf atomaria;0,748;0,877
+48;K-2327;Apidae;Meliponini;Trigona;Trigona nigerrima;1,6;2,485
+49;K-0359;Apidae;Meliponini;Nogueirapis;Nogueirapis mirandula;1,164;2,105
+50;K-1580;Apidae;Meliponini;Paratrigona;Paratrigona opaca;1,239;1,108
+51;K-0428;Apidae;Meliponini;Scaptotrigona;Scaptotrigona luteipennis;1,868;3,22
+52;K-1521;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Scaptotrigona) sp;1,703;2,905
+53;A-0029;Apidae;Meliponini;Partamona;Partamona nr peckolti;1,562;3,15
+54;K-1558;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,635;2,874
+55;A-0437;Apidae;Meliponini;Partamona;Partamona nr peckolti;1,576;3,816
+56;K-0749;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Gymnotrigona) sp;1,88;3,434
+57;K-0156;Apidae;Meliponini;Trigonisca;Trigonisca cf buyssoni;0,959;1,199
+58;K-0788;Apidae;Meliponini;Trigonisca;Trigonisca cf buyssoni;0,852;0,907
+59;K-1738;Apidae;Meliponini;Trigona;Trigona guianae;1,475;3,324
+60;K-0973;Apidae;Meliponini;Oxytrigona;Oxytrigona isthmina;1,41;1,722
+61;K-0431;Apidae;Meliponini;Partamona;Partamona sp;1,822;3,353
+62;K-2306;Apidae;Meliponini;Plebeia;Plebeia sp1;1,121;1,514
+63;A-0778;Apidae;Meliponini;Plebeia;Plebeia sp2;1,137;1,601
+64;K-0921;Apidae;Meliponini;Paratrigona;Paratrigona lophocoryphe;1,328;2,515
+65;A-1490;Apidae;Meliponini;Scaura;Scaura argyrea;1,213;1,37
+66;K-0161;Apidae;Meliponini;Trigona;Trigona ferricauda;1,313;2,548
+67;K-0686;Apidae;Meliponini;Tetragona;Tetragona perangulata;1,251;1,47
+68;A-0777;Apidae;Meliponini;Plebeia;Plebeia sp2;1,205;1,62
+69;K-0047;Apidae;Meliponini;Melipona;Melipona (Michmelia) sp;3,015;4,93
+70;K-0257;Apidae;Meliponini;Trigona;Trigona guianae;1,487;3,117
+71;A-0438;Apidae;Meliponini;Partamona;Partamona nr peckolti;1,561;3,722
+72;K-1565;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,569;2,716
+73;K-0642;Apidae;Meliponini;Partamona;Partamona aequatoriana;1,569;3,119
+74;K-1519;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Scaptotrigona) sp;1,657;3,081
+75;K-0320;Apidae;Meliponini;Nannotrigona;Nannotrigona tristella;1,414;1,583
+76;K-0135;Apidae;Meliponini;Tetragona;Tetragona perangulata;1,335;1,264
+77;K-0137;Apidae;Meliponini;Tetragona;Tetragona perangulata;1,337;1,548
+78;K-0328;Apidae;Meliponini;Dolichotrigona;Dolichotrigona schulthessi;0,912;1,107
+79;K-2061;Apidae;Meliponini;Trigona;Trigona fuscipennis;1,402;1,777
+80;K-0914;Apidae;Meliponini;Plebeia;Plebeia sp1;1,142;1,493
+81;K-0759;Apidae;Meliponini;Tetragona;Tetragona ziegleri;1,162;1,261
+82;A-1215;Apidae;Meliponini;Trigonisca;Trigonisca cf pediculana;0,798;1,108
+83;K-0887;Apidae;Meliponini;Plebeia;Plebeia (Nanoplebeia) minima;0,981;1,347
+84;A-0430;Apidae;Meliponini;Trigona;Trigona nigerrima;1,755;2,359
+85;A-0032;Apidae;Meliponini;Partamona;Partamona nr peckolti;1,561;3,171
+86;K-0363;Apidae;Meliponini;Nogueirapis;Nogueirapis mirandula;1,155;2,199
+87;A-1496;Apidae;Meliponini;Scaura;Scaura argyrea;1,214;1,306
+88;A-1032;Apidae;Meliponini;Dolichotrigona;Dolichotrigona schulthessi;0,897;1,038
+89;K-1072;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Gymnotrigona) sp;1,857;3,218
+90;K-1770;Apidae;Meliponini;Oxytrigona;Oxytrigona isthmina;1,363;1,752
+91;K-0466;Apidae;Meliponini;Trigona;Trigona nigerrima;1,706;2,525
+92;K-0470;Apidae;Meliponini;Scaptotrigona;Scaptotrigona luteipennis;1,997;3,338
+93;K-2310;Apidae;Meliponini;Plebeia;Plebeia sp1;1,121;1,547
+94;K-0938;Apidae;Meliponini;Trigona;Trigona silvestriana;2,078;2,798
+95;A-0439;Apidae;Meliponini;Partamona;Partamona nr peckolti;1,542;3,73
+96;K-0836;Apidae;Meliponini;Trigona;Trigona cilipes;1,355;2,465
+97;K-0866;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,658;2,95
+98;A-0779;Apidae;Meliponini;Plebeia;Plebeia sp2;1,129;1,592
+99;A-0427;Apidae;Meliponini;Trigona;Trigona nigerrima;1,724;2,34
+100;K-0150;Apidae;Meliponini;Trigonisca;Trigonisca cf buyssoni;0,766;0,969
+101;A-1033;Apidae;Meliponini;Dolichotrigona;Dolichotrigona schulthessi;0,898;1,064
+102;K-0772;Apidae;Meliponini;Paratrigona;Paratrigona lophocoryphe;1,242;2,431
+103;K-1559;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,585;2,67
+104;K-0317;Apidae;Meliponini;Nannotrigona;Nannotrigona tristella;1,493;1,631
+105;K-0246;Apidae;Meliponini;Trigona;Trigona ferricauda;1,406;2,838
+106;K-1522;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Scaptotrigona) sp;1,624;3,015
+107;K-0832;Apidae;Meliponini;Trigona;Trigona recursa;1,412;2,094
+108;A-0241;Apidae;Meliponini;Dolichotrigona;Dolichotrigona schulthessi;0,954;1,244
+109;K-0891;Apidae;Meliponini;Plebeia;Plebeia (Nanoplebeia) minima;0,955;1,421
+110;A-0436;Apidae;Meliponini;Partamona;Partamona nr peckolti;1,444;3,735
+111;K-0694;Apidae;Meliponini;Tetragona;Tetragona ziegleri;1,173;1,291
+112;K-2097;Apidae;Meliponini;Trigonisca;Trigonisca cf atomaria;0,786;1,047
+113;K-0821;Apidae;Meliponini;Trigona;Trigona silvestriana;2,097;2,84
+114;A-1214;Apidae;Meliponini;Trigonisca;Trigonisca cf pediculana;0,804;1,139
+115;K-0870;Apidae;Meliponini;Nannotrigona;Nannotrigona mellaria;1,22;1,921
+116;K-0241;Apidae;Meliponini;Plebeia;Plebeia sp2;1,16;1,743
+117;K-2009;Apidae;Meliponini;Nannotrigona;Nannotrigona mellaria;1,22;1,941
+118;K-1724;Apidae;Meliponini;Oxytrigona;Oxytrigona isthmina;1,371;1,848
+119;A-1539;Apidae;Meliponini;Trigonisca;Trigonisca cf pediculana;0,814;0,926
+120;A-0723;Apidae;Meliponini;Partamona;Partamona nr peckolti;1,598;3,755
+121;K-2308;Apidae;Meliponini;Plebeia;Plebeia sp1;1,077;1,555
+122;K-0882;Apidae;Meliponini;Trigona;Trigona guianae;1,398;1,838
+123;K-2329;Apidae;Meliponini;Trigona;Trigona nigerrima;1,582;2,546
+124;K-1563;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,623;2,873
+125;K-0696;Apidae;Meliponini;Tetragona;Tetragona ziegleri;1,157;1,338
+126;K-0915;Apidae;Meliponini;Plebeia;Plebeia sp1;1,141;1,489
+127;K-0833;Apidae;Meliponini;Trigona;Trigona recursa;1,414;2,127
+128;A-1479;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Gymnotrigona) sp;1,844;3,417
+129;K-0152;Apidae;Meliponini;Trigonisca;Trigonisca cf buyssoni;0,779;0,924
+130;K-0401;Apidae;Meliponini;Trigona;Trigona silvestriana;2,073;2,808
+131;K-0313;Apidae;Meliponini;Nannotrigona;Nannotrigona tristella;1,48;1,672
+132;K-2063;Apidae;Meliponini;Trigona;Trigona fuscipennis;1,369;1,596
+133;K-0250;Apidae;Meliponini;Trigona;Trigona fuscipennis;1,426;1,626
+134;K-0148;Apidae;Meliponini;Trigona;Trigona guianae;1,48;3,197
+135;K-0647;Apidae;Meliponini;Partamona;Partamona aequatoriana;1,583;3,021
+136;A-0551;Apidae;Meliponini;Trigonisca;Trigonisca cf atomaria;0,782;0,924
+137;K-0657;Apidae;Meliponini;Tetragonisca;Tetragonisca angustula;0,89;1,4
+138;K-2049;Apidae;Meliponini;Trigona;Trigona cf fulviventris;1,382;3,617
+139;K-0360;Apidae;Meliponini;Nogueirapis;Nogueirapis mirandula;1,122;2,042
+140;K-0275;Apidae;Meliponini;Partamona;Partamona sp;1,702;3,11
+141;A-0772;Apidae;Meliponini;Plebeia;Plebeia sp2;1,167;1,694
+142;K-0886;Apidae;Meliponini;Plebeia;Plebeia (Nanoplebeia) minima;0,994;1,224
+143;K-1740;Apidae;Meliponini;Trigona;Trigona guianae;1,517;3,344
+144;K-0147;Apidae;Meliponini;Trigona;Trigona guianae;1,549;2,976
+145;A-0240;Apidae;Meliponini;Dolichotrigona;Dolichotrigona schulthessi;0,934;1,249
+146;K-1069;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Gymnotrigona) sp;1,92;3,505
+147;A-0429;Apidae;Meliponini;Trigona;Trigona nigerrima;1,736;2,336
+148;A-0545;Apidae;Meliponini;Trigonisca;Trigonisca cf atomaria;0,778;0,891
+149;K-1430;Apidae;Meliponini;Plebeia;Plebeia (Nanoplebeia) minima;0,912;0,527
+150;K-2304;Apidae;Meliponini;Plebeia;Plebeia sp1;1,072;1,597
+151;K-1652;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,553;2,635
+152;K-0751;Apidae;Meliponini;Trigona;Trigona ferricauda;1,364;2,645
+153;K-0857;Apidae;Meliponini;Plebeia;Plebeia sp1;1,222;1,335
+154;A-0780;Apidae;Meliponini;Plebeia;Plebeia sp2;1,083;1,603
+155;K-1654;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,606;2,858
+156;K-2307;Apidae;Meliponini;Plebeia;Plebeia sp1;1,143;1,577
+157;K-0858;Apidae;Meliponini;Plebeia;Plebeia sp1;1,195;1,408
+158;K-1789;Apidae;Meliponini;Paratrigona;Paratrigona lophocoryphe;1,274;1,052
+159;K-0856;Apidae;Meliponini;Plebeia;Plebeia (Nanoplebeia) minima;0,994;1,334
+160;K-0429;Apidae;Meliponini;Scaptotrigona;Scaptotrigona luteipennis;1,879;3,211
+161;K-0644;Apidae;Meliponini;Partamona;Partamona aequatoriana;1,583;3,114
+162;K-0752;Apidae;Meliponini;Trigona;Trigona ferricauda;1,351;2,694
+163;K-2030;Apidae;Meliponini;Ptilotrigona;Ptilotrigona occidentalis;1,738;2,561
+164;K-1073;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Gymnotrigona) sp;1,874;3,266
+165;K-0248;Apidae;Meliponini;Trigona;Trigona ferricauda;1,404;2,755
+166;K-0153;Apidae;Meliponini;Trigonisca;Trigonisca cf buyssoni;0,91;1,192
+167;K-0388;Apidae;Meliponini;Partamona;Partamona sp;1,792;3,314
+168;K-1803;Apidae;Meliponini;Plebeia;Plebeia sp1;1,16;0,61
+169;K-1525;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Scaptotrigona) sp;1,656;3,196
+170;K-2050;Apidae;Meliponini;Trigona;Trigona cf fulviventris;1,403;3,233
+171;K-0159;Apidae;Meliponini;Trigona;Trigona ferricauda;1,297;2,669
+172;K-0155;Apidae;Meliponini;Trigonisca;Trigonisca cf buyssoni;0,792;1,044
+173;K-0654;Apidae;Meliponini;Tetragonisca;Tetragonisca angustula;0,922;1,371
+174;A-0243;Apidae;Meliponini;Dolichotrigona;Dolichotrigona schulthessi;0,941;1,193
+175;K-1524;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Scaptotrigona) sp;1,753;3,169
+176;K-2095;Apidae;Meliponini;Trigonisca;Trigonisca cf atomaria;0,755;1,044
+177;K-0940;Apidae;Meliponini;Trigona;Trigona silvestriana;2,061;2,813
+178;A-1492;Apidae;Meliponini;Scaura;Scaura argyrea;1,263;1,45
+179;K-1624;Apidae;Meliponini;Scaptotrigona;Scaptotrigona luteipennis;1,876;3,525
+180;K-0890;Apidae;Meliponini;Plebeia;Plebeia (Nanoplebeia) minima;0,985;1,277
+181;A-1540;Apidae;Meliponini;Trigonisca;Trigonisca cf pediculana;0,748;0,971
+182;A-0432;Apidae;Meliponini;Trigona;Trigona nigerrima;1,661;2,38
+183;K-0937;Apidae;Meliponini;Trigona;Trigona silvestriana;1,974;2,942
+184;K-0315;Apidae;Meliponini;Nannotrigona;Nannotrigona tristella;1,43;1,613
+185;K-0884;Apidae;Meliponini;Plebeia;Plebeia (Nanoplebeia) minima;0,906;1,432
+186;A-1488;Apidae;Meliponini;Scaura;Scaura argyrea;1,182;1,285
+187;K-1755;Apidae;Meliponini;Plebeia;Plebeia (Nanoplebeia) minima;0,924;0,46
+188;K-0650;Apidae;Meliponini;Partamona;Partamona aequatoriana;1,563;3,129
+189;A-1493;Apidae;Meliponini;Scaura;Scaura argyrea;1,185;1,37
+190;A-0548;Apidae;Meliponini;Trigonisca;Trigonisca cf atomaria;0,753;0,894
+191;A-0027;Apidae;Meliponini;Partamona;Partamona nr peckolti;1,581;3,835
+192;A-1487;Apidae;Meliponini;Scaura;Scaura argyrea;1,224;1,138
+193;K-0881;Apidae;Meliponini;Trigona;Trigona fuscipennis;1,465;1,591
+194;K-0247;Apidae;Meliponini;Trigona;Trigona ferricauda;1,367;2,674
+195;K-2247;Apidae;Meliponini;Trigona;Trigona cf fulviventris;1,438;3,209
+196;A-0775;Apidae;Meliponini;Plebeia;Plebeia sp2;1,177;1,61
+197;K-1071;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Gymnotrigona) sp;1,923;3,159
+198;K-2062;Apidae;Meliponini;Trigona;Trigona fuscipennis;1,33;1,758
+199;K-2007;Apidae;Meliponini;Nannotrigona;Nannotrigona tristella;1,363;1,965
+200;K-1655;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,541;2,636
+201;A-0547;Apidae;Meliponini;Trigonisca;Trigonisca cf atomaria;0,761;0,918
+202;K-0400;Apidae;Meliponini;Trigona;Trigona silvestriana;2,096;2,881
+203;K-2299;Apidae;Meliponini;Trigona;Trigona cf fulviventris;1,454;3,361
+204;K-0279;Apidae;Meliponini;Partamona;Partamona sp;1,835;3,305
+205;A-0773;Apidae;Meliponini;Plebeia;Plebeia sp2;1,221;1,641
+206;K-2302;Apidae;Meliponini;Plebeia;Plebeia sp1;1,089;1,563
+207;K-0693;Apidae;Meliponini;Tetragona;Tetragona ziegleri;1,123;1,24
+208;K-1562;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,649;2,634
+209;K-0810;Apidae;Meliponini;Plebeia;Plebeia sp1;1,117;1,817
+210;K-0160;Apidae;Meliponini;Trigona;Trigona ferricauda;1,393;2,801
+211;K-1504;Apidae;Meliponini;Melipona;Melipona (Michmelia) sp;2,835;5,526
+212;K-1520;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Scaptotrigona) sp;1,647;3,229
+213;K-2367;Apidae;Meliponini;Trigona;Trigona cf fulviventris;1,462;3,464
+214;K-0379;Apidae;Meliponini;Plebeia;Plebeia sp2;1,137;1,688
+215;K-0746;Apidae;Meliponini;Trigona;Trigona guianae;1,475;3,238
+216;K-0046;Apidae;Meliponini;Melipona;Melipona (Michmelia) sp;2,9;4,668
+217;K-2082;Apidae;Meliponini;Ptilotrigona;Ptilotrigona occidentalis;1,618;2,349
+218;K-2104;Apidae;Meliponini;Trigona;Trigona fuscipennis;1,435;1,763
+219;K-0280;Apidae;Meliponini;Partamona;Partamona sp;1,714;3,359
+220;K-0111;Apidae;Meliponini;Scaura;Scaura longula;1,276;1,431
+221;K-0316;Apidae;Meliponini;Nannotrigona;Nannotrigona tristella;1,405;1,59
+222;K-1651;Apidae;Meliponini;Scaptotrigona;Scaptotrigona postica 'group b';1,527;2,808
+223;A-0771;Apidae;Meliponini;Plebeia;Plebeia sp2;1,144;1,627
+224;K-0243;Apidae;Meliponini;Plebeia;Plebeia sp2;1,197;1,714
+225;K-0972;Apidae;Meliponini;Oxytrigona;Oxytrigona isthmina;1,408;1,752
+226;A-0428;Apidae;Meliponini;Trigona;Trigona nigerrima;1,794;2,344
+227;K-0402;Apidae;Meliponini;Trigona;Trigona silvestriana;2,106;3,276
+228;K-1627;Apidae;Meliponini;Scaptotrigona;Scaptotrigona luteipennis;1,929;3,366
+229;K-0430;Apidae;Meliponini;Partamona;Partamona sp;1,703;3,457
+230;K-0136;Apidae;Meliponini;Tetragona;Tetragona perangulata;1,297;1,461
+231;K-1721;Apidae;Meliponini;Tetragonisca;Tetragonisca angustula;0,929;1,589
+232;K-0384;Apidae;Meliponini;Plebeia;Plebeia sp2;1,172;1,557
+233;K-0469;Apidae;Meliponini;Scaptotrigona;Scaptotrigona luteipennis;1,86;3,302
+234;K-1517;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Scaptotrigona) sp;1,68;3,273
+235;K-0115;Apidae;Meliponini;Tetragonisca;Tetragonisca angustula;0,904;1,373
+236;K-2325;Apidae;Meliponini;Trigona;Trigona nigerrima;1,558;2,58
+237;K-2303;Apidae;Meliponini;Plebeia;Plebeia sp1;1,158;1,598
+238;K-0690;Apidae;Meliponini;Tetragona;Tetragona perangulata;1,363;1,604
+239;K-2051;Apidae;Meliponini;Trigona;Trigona cf fulviventris;1,414;3,335
+240;K-0646;Apidae;Meliponini;Partamona;Partamona aequatoriana;1,661;3,129
+241;K-0365;Apidae;Meliponini;Nogueirapis;Nogueirapis mirandula;1,123;1,982
+242;K-0380;Apidae;Meliponini;Plebeia;Plebeia sp2;1,195;1,839
+243;K-0385;Apidae;Meliponini;Plebeia;Plebeia sp2;1,217;1,646
+244;A-1212;Apidae;Meliponini;Trigonisca;Trigonisca cf pediculana;0,777;1,091
+245;K-0922;Apidae;Meliponini;Paratrigona;Paratrigona lophocoryphe;1,265;2,515
+246;K-0278;Apidae;Meliponini;Partamona;Partamona sp;1,741;3,277
+247;A-0462;Apidae;Meliponini;Partamona;Partamona nr peckolti;1,528;3,146
+248;K-1074;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Gymnotrigona) sp;1,886;3,052
+249;A-1218;Apidae;Meliponini;Trigonisca;Trigonisca cf pediculana;0,802;1,047
+250;A-1538;Apidae;Meliponini;Trigonisca;Trigonisca cf pediculana;0,785;0,978
+251;A-1491;Apidae;Meliponini;Scaura;Scaura argyrea;1,216;1,166
+252;A-1494;Apidae;Meliponini;Scaura;Scaura argyrea;1,202;1,376
+253;K-1518;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Scaptotrigona) sp;1,618;3,359
+254;K-0382;Apidae;Meliponini;Plebeia;Plebeia sp2;1,222;1,698
+255;K-0685;Apidae;Meliponini;Tetragona;Tetragona perangulata;1,268;1,446
+256;K-1523;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Scaptotrigona) sp;1,639;2,88
+257;K-1626;Apidae;Meliponini;Scaptotrigona;Scaptotrigona luteipennis;1,866;3,234
+258;K-0381;Apidae;Meliponini;Plebeia;Plebeia sp2;1,184;1,907
+259;A-0426;Apidae;Meliponini;Trigona;Trigona nigerrima;1,709;2,357
+260;K-0943;Apidae;Meliponini;Trigona;Trigona guianae;1,467;3,068
+261;K-0364;Apidae;Meliponini;Nogueirapis;Nogueirapis mirandula;1,134;2,259
+262;K-0885;Apidae;Meliponini;Plebeia;Plebeia (Nanoplebeia) minima;1,012;1,238
+263;K-0656;Apidae;Meliponini;Tetragonisca;Tetragonisca angustula;0,882;1,409
+264;K-2225;Apidae;Meliponini;Trigona;Trigona fuscipennis;1,425;1,742
+265;A-0242;Apidae;Meliponini;Dolichotrigona;Dolichotrigona schulthessi;0,912;1,246
+266;K-2305;Apidae;Meliponini;Plebeia;Plebeia sp1;1,109;1,518
+267;K-0649;Apidae;Meliponini;Partamona;Partamona aequatoriana;1,654;3,092
+268;K-0695;Apidae;Meliponini;Tetragona;Tetragona ziegleri;1,198;1,294
+269;K-0760;Apidae;Meliponini;Tetragona;Tetragona ziegleri;1,204;1,27
+270;K-1070;Apidae;Meliponini;Scaptotrigona;Scaptotrigona (Gymnotrigona) sp;1,894;3,215
+271;K-0358;Apidae;Meliponini;Nogueirapis;Nogueirapis mirandula;1,137;1,978
+272;K-0687;Apidae;Meliponini;Tetragona;Tetragona perangulata;1,233;1,472
+273;K-0134;Apidae;Meliponini;Tetragona;Tetragona perangulata;1,316;1,554
+274;K-2065;Apidae;Meliponini;Melipona;Melipona (Michmelia) sp;2,752;5,365
