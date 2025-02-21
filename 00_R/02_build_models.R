@@ -9,7 +9,8 @@ traits <- read.csv2("02_processed_data/traits.csv")
 
 prediction <- traits %>%
   pivot_wider(id_cols=individual:species, names_from=trait, 
-              values_from=value)
+              values_from=value) %>%
+  filter(species!="Euglossa sp")
 
 # measurements per species
 df <- prediction %>%
