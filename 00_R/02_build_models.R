@@ -151,11 +151,11 @@ summary(aug_4)
 AICc(aug_1, aug_2, aug_3, aug_4)
 
 prediction_aug <- prediction_aug %>% 
-  mutate(pred_genus=exp(predict(aug_4))) %>%
+  mutate(pred_genus=exp(predict(aug_3))) %>%
   mutate(pred_tribe=exp(predict(aug_1)))
 
 coef(aug_1)
-coef(aug_4)
+coef(aug_3)
 
 ##### NEW MODELS FOR ALL EUGLOSSINI #####
 
@@ -289,7 +289,7 @@ plot_tribe <- ggplot(prediction, aes(x=intertegularDistance)) +
 
 facet_titles2 <- as_labeller(
   c("Augochlorini" = paste0("Augochlorini; R² = ",
-                            round(summary(aug_4)$r.squared, 2)),
+                            round(summary(aug_3)$r.squared, 2)),
     "Meliponini" = paste0("Meliponini; R² = ",
                           round(summary(mel_3)$r.squared, 2)),
     "Euglossini" = paste0("Euglossini; R² = ",
