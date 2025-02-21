@@ -317,4 +317,4 @@ fig1 <- grid.arrange(
   plot_genus + labs(title="B")
 )
 
-ggsave("03_final_data/fig_1.svg", fig1, dpi=800)
+ggsave("03_final_data/fig_1.png", fig1, dpi=600)
