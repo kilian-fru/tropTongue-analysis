@@ -189,7 +189,7 @@ coef(eug_3)
 ##### NEW MODELS FOR EUGLOSSINI WITHOUT EUGLOSSA #####
 
 prediction_eug.without_euglossa <- prediction_eug %>%
-  filter(genus!="Euglossa") %>%
+  filter(genus!="Euglossa" & genus!="Aglae") %>%
   filter(!is.na(intertegularDistance) & !is.na(proboscisLength))
 
 eug_1.without_euglossa <- lm(log(proboscisLength) ~ log(intertegularDistance),
@@ -318,4 +318,3 @@ fig1 <- grid.arrange(
 )
 
 ggsave("03_final_data/fig_1.svg", fig1, dpi=800)
-
