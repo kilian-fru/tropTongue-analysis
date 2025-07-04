@@ -16,25 +16,31 @@ prediction <- traits %>%
 ##### create linear model for Meliponini #####
 
 # pred_mel_training <- prediction %>% 
-#  filter(tribe=="Meliponini") %>%
-#  sample_n(0.8*343)
-
+#   filter(tribe=="Meliponini") %>%
+#   sample_n(0.8*343) %>%
+#   group_by(tribe, species) %>%
+#   mutate(numb = n()) %>%
+#   ungroup()
+# 
 # write.csv2(pred_mel_training, "02_processed_data/training_test_model.csv")
 
 pred_mel_training <- read.csv2("02_processed_data/training_test_model.csv")
 
 # pred_mel_eval <- prediction %>% 
-#  filter(tribe=="Meliponini") %>%
-#  filter(!individual %in% pred_mel_training$individual)
-
-#write.csv2(pred_mel_eval, "02_processed_data/evaluation_test_model.csv")
+#   filter(tribe=="Meliponini") %>%
+#   filter(!individual %in% pred_mel_training$individual) %>%
+#   group_by(tribe, species) %>%
+#   mutate(numb = n()) %>%
+#   ungroup()
+# 
+# write.csv2(pred_mel_eval, "02_processed_data/evaluation_test_model.csv")
 
 pred_mel_eval <- read.csv2("02_processed_data/evaluation_test_model.csv")
 
 ### build and predict test model
 
-mel_1 <- lm(log(proboscisLength) ~ log(intertegularDistance) + genus,
-            data = pred_mel_training)
+mel_1 <- lmer(log(proboscisLength) ~ log(intertegularDistance) * genus + (1|numb),
+              data = pred_mel_training)
 
 pred_mel_eval$pred <- exp(predict(mel_1, newdata=pred_mel_eval))
 
