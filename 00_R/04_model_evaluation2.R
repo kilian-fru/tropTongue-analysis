@@ -137,6 +137,7 @@ fig3 <- grid.arrange(
   ncol=2
 )
 
+ggsave("03_final_data/fig_S2.png", fig3, dpi=600)
 
 
 
