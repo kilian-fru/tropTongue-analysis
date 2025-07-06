@@ -2,6 +2,7 @@ library(tidyverse)
 library(BeeIT)
 library(MuMIn)
 library(gridExtra)
+library(lme4)
 
 rm(list=ls())
 
